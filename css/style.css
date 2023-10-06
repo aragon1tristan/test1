@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eee;
+  top: 0;
+  left: 0;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ccc;
+  width: 1024px;
+  min-height: 600px;
+}
+
+#container-title {
+  margin-top: 50px;
+  text-align: center !important;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.form {
+  float: left;
+  margin-left: 450px;
+  background-color: #dddddd;
+  width: 200px;
+  min-height: 100px;
+}
